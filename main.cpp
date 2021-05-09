@@ -139,6 +139,8 @@ void doP3(vector<string>& inVec, map<string, float>& outMap)
 	cout << "This is the result of the P3 run\n";
 	cout << "--------------------------------\n";
 
+	// This is a test for git commit
+
 }
 
 // Parse Strings
