@@ -9,9 +9,69 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <Filter Include="A2 MFiles">
+      <UniqueIdentifier>{1535ab0e-59d6-4dc2-934a-6882fb3515c4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="A2 ErrFiles">
+      <UniqueIdentifier>{f9c1b58a-02f4-424e-928d-2730e470f636}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="A2 AFiles">
+      <UniqueIdentifier>{69af18ed-25a9-4a6f-996f-75c5ad5a5dbe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="A2Part5m.txt">
+      <Filter>A2 MFiles</Filter>
+    </Text>
+    <Text Include="A2Part1m.txt">
+      <Filter>A2 MFiles</Filter>
+    </Text>
+    <Text Include="A2Part2m.txt">
+      <Filter>A2 MFiles</Filter>
+    </Text>
+    <Text Include="A2Part3m.txt">
+      <Filter>A2 MFiles</Filter>
+    </Text>
+    <Text Include="A2Part4m.txt">
+      <Filter>A2 MFiles</Filter>
+    </Text>
+    <Text Include="A2Part1a.txt">
+      <Filter>A2 AFiles</Filter>
+    </Text>
+    <Text Include="A2Part2a.txt">
+      <Filter>A2 AFiles</Filter>
+    </Text>
+    <Text Include="A2Part3a.txt">
+      <Filter>A2 AFiles</Filter>
+    </Text>
+    <Text Include="A2Part4a.txt">
+      <Filter>A2 AFiles</Filter>
+    </Text>
+    <Text Include="A2Part5a.txt">
+      <Filter>A2 AFiles</Filter>
+    </Text>
+    <Text Include="A2test.txt">
+      <Filter>A2 AFiles</Filter>
+    </Text>
+    <Text Include="A2Part1err.txt">
+      <Filter>A2 ErrFiles</Filter>
+    </Text>
+    <Text Include="A2Part2err.txt">
+      <Filter>A2 ErrFiles</Filter>
+    </Text>
+    <Text Include="A2Part3err.txt">
+      <Filter>A2 ErrFiles</Filter>
+    </Text>
+    <Text Include="A2Part4err.txt">
+      <Filter>A2 ErrFiles</Filter>
+    </Text>
+    <Text Include="A2Part5err.txt">
+      <Filter>A2 ErrFiles</Filter>
+    </Text>
   </ItemGroup>
 </Project>
